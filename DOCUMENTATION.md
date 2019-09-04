@@ -6,12 +6,6 @@
 
 	POST /items
 
-### Headers
-
-| Name    | Type      | Description                          |
-|---------|-----------|--------------------------------------|
-| X-Access-Token			| String			|  <p>Required Access token of logged in user</p> 							|
-
 ### Parameters
 
 | Name    | Type      | Description                          |
