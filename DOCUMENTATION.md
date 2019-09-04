@@ -8,11 +8,6 @@
 
 ### Parameters
 
-| Name    | Type      | Description                          |
-|---------|-----------|--------------------------------------|
-| title			| <p>String</p> 			|  <p>Item title text</p> 							|
-| description			| <p>String</p> 			| **optional** <p>Item description text</p> 							|
-| isPublic			| <p>Boolean</p> 			| **optional** <p>Is item visible for listeners</p> 							|
 
 ### Success Response
 
