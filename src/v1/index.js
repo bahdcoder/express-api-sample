@@ -8,6 +8,7 @@ export default function () {
 
     router.use('/user', user());
     router.use('/items', items());
+    router.use('/v2/items', items());
 
     return router;
 }

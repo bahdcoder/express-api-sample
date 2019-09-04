@@ -1,4 +1,4 @@
-# Express API Sample Documentation v0.0.0
+# Express API Sample Documentation v1.0.0
 
 Sample API ready to be used in different client app boilerplates and playgrounds.
 
